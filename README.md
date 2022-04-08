@@ -1,6 +1,6 @@
 # Галкин Сергей  
 
-![] (/img/Photo.jpg)
+<image src="/img/Photo.jpg"  width=300px height = 370px>
 
 ## О себе  
 Возраст: 32 года  
